@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid #ddd; 
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+th {
+    background-color: #f2f2f2;
+}
+
+footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.primop {
+    color: aliceblue; 
+    font-style: italic;
+}
+
+.secondop {
+    color: rgb(40, 150, 246); 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nascosto {
+    display: none;
+}
+
+button {
+    padding: 5px;
+    background-color: rgba(160, 209, 246, 0.625);
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+}
+
+td {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
